@@ -108,6 +108,11 @@ During the setup or execution of the code, you might encounter directory-related
    - Graphviz is installed. ✔️
    - The path to Graphviz is added to your system’s PATH variable. 🌐
    - If on Windows, you may need to add `C:\Program Files\Graphviz\bin` to the PATH environment variable manually. 🖥️
+## Sample Video 🎥
+
+Here’s a quick demo of how the code works and the Decision Tree visualization process:
+
+[Click here to watch the video!](https://github.com/user-attachments/assets/4bbbea8e-3921-4c51-96b6-ec3db6071658)
 
 ## Desired Output 🎯
 
